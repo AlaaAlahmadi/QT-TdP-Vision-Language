@@ -1,0 +1,16 @@
+scheme,fold,images,high_risk,participants
+image_stratified,1,1044,35,22
+image_stratified,2,1044,35,22
+image_stratified,3,1044,35,22
+image_stratified,4,1044,35,22
+image_stratified,5,1043,35,22
+participant_grouped,1,909,11,4
+participant_grouped,2,956,58,4
+participant_grouped,3,958,23,4
+participant_grouped,4,1200,42,5
+participant_grouped,5,1196,41,5
+timepoint_grouped,1,1044,30,22
+timepoint_grouped,2,1045,40,22
+timepoint_grouped,3,1042,32,22
+timepoint_grouped,4,1046,40,22
+timepoint_grouped,5,1042,33,22

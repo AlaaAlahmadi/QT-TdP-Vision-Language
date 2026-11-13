@@ -1,0 +1,9 @@
+step,seconds
+inventory (new images),13.6
+embed colour (5219 images),97.0
+embed colourless (5219 images),96.4
+embed colour_greyscale (5219 images),99.4
+embed old_colour (5035 images),80.3
+embed old_colourless (4754 images),76.0
+probes,941.1
+bootstrap,149.0

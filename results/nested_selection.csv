@@ -1,0 +1,11 @@
+rendering,fold,selected,inner_MCC
+colour,1,img+morph[No Label],0.3579329982135162
+colour,2,img+morph[L2],0.26343581645748004
+colour,3,img+morph[L2],0.4359254981925315
+colour,4,img+both[L3],0.23425501287800174
+colour,5,img+both[L1],0.32576802318193276
+colourless,1,img+morph[L1],0.2295437242362764
+colourless,2,img+morph[L3],0.13679724335022883
+colourless,3,img+morph[L1],0.20943398293941526
+colourless,4,img+morph[L2],0.1316099515740663
+colourless,5,img+both[L2],0.0979003103154685

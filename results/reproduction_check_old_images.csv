@@ -1,0 +1,11 @@
+check,published,rerun
+old colour: images (high-risk / low-risk),181 / 4854,181 / 4854
+"zero-shot colour No Label colour only (C+M̄) (TP,FN,TN,FP)","(175, 6, 972, 3882)","(175, 6, 972, 3882)"
+"zero-shot colour L3 morphology only (C̄+M) (TP,FN,TN,FP)","(24, 157, 4408, 446)","(24, 157, 4408, 446)"
+"trained colour none[No Label], fold-mean MCC (original protocol)",0.437,0.437
+"trained colour morph[L3], fold-mean MCC (original protocol)",0.446,0.446
+old colourless: images (high-risk / low-risk),181 / 4573,181 / 4573
+"zero-shot colourless No Label colour only (C+M̄) (TP,FN,TN,FP)","(181, 0, 0, 4573)","(181, 0, 0, 4573)"
+"zero-shot colourless L3 morphology only (C̄+M) (TP,FN,TN,FP)","(84, 97, 2568, 2005)","(84, 97, 2569, 2004)"
+"trained colourless none[No Label], fold-mean MCC (original protocol)",0.312,0.312
+"trained colourless both[L3], fold-mean MCC (original protocol)",0.328,0.328

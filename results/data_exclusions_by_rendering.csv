@@ -1,0 +1,6 @@
+reason,high_risk,low_risk,unknown_label
+colour image only (no colourless),0,0,0
+colourless image only (no colour),0,0,0
+both images but no label (missing QT or no metadata row),0,0,13
+metadata row with no image,0,0,0
+ANALYSED (both renderings + metadata),175,5044,0

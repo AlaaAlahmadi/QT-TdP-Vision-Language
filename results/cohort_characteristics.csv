@@ -1,0 +1,7 @@
+variable,summary
+SEX,"F: 11, M: 11"
+AGE,"mean 26.9 (SD 5.5), range 19-35"
+HGHT,"mean 172.2 (SD 8.0), range 159-185"
+WGHT,"mean 68.3 (SD 8.2), range 52-81"
+RACE,"WHITE: 17, AFRICAN AMERICAN: 4, ASIAN: 1"
+ETHNIC,"NOT HISPANIC OR LATINO: 21, HISPANIC OR LATINO: 1"
