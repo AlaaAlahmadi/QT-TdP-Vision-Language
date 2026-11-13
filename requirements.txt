@@ -1,0 +1,11 @@
+# Exact versions used for the revision are recorded in results/environment.json
+open_clip_torch
+torch
+torchvision
+scikit-learn
+numpy
+pandas
+scipy
+pillow
+matplotlib
+nbformat
